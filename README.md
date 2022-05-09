@@ -1,4 +1,4 @@
-Types of Java Applications
+#Types of Java Applications
 There are mainly 4 types of applications that can be created using Java programming:
 
 1) Standalone Application
